@@ -5,5 +5,6 @@ Allows you to use the Mandrill mailing service, perfect for those admins with is
 
 **NOTE: mod_ssl is required**
 
+*You can create a new Mandrill account here: http://mandrill.com*
 
 ![](http://i.imgur.com/Dcbt3VO.png)
