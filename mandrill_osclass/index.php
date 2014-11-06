@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Mandrill Osclass
+Plugin Name: Mandrill for Osclass
 Plugin URI: http://www.osclass.org/
 Description: Mandrill Osclass Plugin
-Version: 1.0
+Version: 1.0.0
 Author: garciademarina
 Author URI: http://www.garciademarina.com/
 Short Name: mandrill_osclass
